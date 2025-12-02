@@ -150,11 +150,11 @@ This project was built as a demonstration of AI-assisted development. Feel free 
 
 ## 📝 License
 
-[Add your license here]
+- Deciding 
 
 ## 🙏 Acknowledgments
 
-- Built with guidance from Claude (Anthropic)
+
 - XGBoost for the ML framework
 - Kafka for streaming infrastructure
 - Streamlit for rapid dashboard development
@@ -162,4 +162,6 @@ This project was built as a demonstration of AI-assisted development. Feel free 
 ---
 
 **Note**: This system uses synthetic data for training and testing. For production deployment with real exchange data, ensure compliance with exchange terms of service and relevant regulations.
+
+
 
