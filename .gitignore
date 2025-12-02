@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment
+.env
+.env.local
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data and models (optional - comment out if you want to commit them)
+# data/models/*.json
+# data/metadata/*.json
+
+# Logs
+*.log
+
+# Docker
+.dockerignore
+
+# Notebooks output
+notebooks/data/
+
+# Temporary files
+*.tmp
+*.bak
+
