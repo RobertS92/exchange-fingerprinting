@@ -1,10 +1,5 @@
 # Exchange Behavior Fingerprinting System
 
-A production-grade machine learning system for identifying cryptocurrency exchanges based on their message stream behavioral patterns using real-time data processing and XGBoost classification.
-
-## 🤖 Development Note
-
-This codebase was developed through an AI-assisted pair programming session. While the architecture, algorithms, and implementation were guided by human requirements and decision-making, the code was written with the assistance of Claude (Anthropic's AI assistant). This project demonstrates the potential of human-AI collaboration in building complex, production-ready systems.
 
 ## 🎯 Overview
 
